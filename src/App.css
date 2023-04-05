@@ -1,5 +1,21 @@
+.form-center{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-fields {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blanchedalmond;
+  margin-bottom: 2rem;
+  padding: 1rem 2rem;
+  gap: 1rem;
+}
 .App {
   text-align: center;
+  padding: 4rem 20rem;
 }
 
 .App-logo {
